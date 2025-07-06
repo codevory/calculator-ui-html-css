@@ -33,6 +33,16 @@ Perfect as a beginner-friendly layout project before adding JavaScript functiona
 
 ---
 
+## 📸 Preview
+
+![calculator preview](screenshot.png)
+
+---
+
+## 🚀 Live Demo
+
+[🔗 View it on GitHub Pages](https://yourusername.github.io/calculator-ui-html-css)
+
 ## 📁 File Structure
 ├── index.html
 ├── style.css
