@@ -34,9 +34,10 @@ Perfect as a beginner-friendly layout project before adding JavaScript functiona
 ---
 
 ## 📁 File Structure
-index.html
-style.css
-read.me
+├── index.html
+├── style.css
+├── preview.png
+├── README.md
 
 ## 📌 Future Plan
 
