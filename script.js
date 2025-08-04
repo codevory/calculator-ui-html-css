@@ -20,9 +20,9 @@ button.addEventListener('click', () => {
     catch(error){
       display.textContent = "Error occured"
     }
+  }
     else{
     display.textContent += buttonText
-  }
   }
 
 })
