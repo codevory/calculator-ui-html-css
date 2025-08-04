@@ -3,23 +3,24 @@ const buttons = document.querySelectorAll('button')
 
 buttons.forEach(button => {
 button.addEventListener('click', () => {
-  if(button.textContent === "C") {
+  const buttonText = button.innerText
+  if(buttonText === "C") {
     display.value = '';
   }
-  else if(button.textContent === "1/X") {
+  else if(buttonText === "1/X") {
     display.value = display.value / 100;
   }
-    else if(button.textContent === "←"){
+    else if(buttonText === "←"){
       display.value = display.value.slice(0,-1)
     }
-  else if(button.textContent === "="){
+  else if(buttonText === "="){
     try{
       display.value = eval(display.value)
     }
     catch(error){
       display.value = "Error occured"
     }
-    display.value += button.textContent
+    display.value += buttonText
   }
 
 })
