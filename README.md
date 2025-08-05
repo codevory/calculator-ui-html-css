@@ -1,59 +1,54 @@
-# 🧮 Calculator UI – HTML & CSS
+🧮 JavaScript Calculator – HTML, CSS & JS
+A fully functional calculator built using HTML, CSS, and JavaScript.
 
-A sleek, responsive Calculator User Interface built entirely using **HTML** and **CSS**.  
-Perfect as a beginner-friendly layout project before adding JavaScript functionality.
+Now supports real-time operations, dynamic input handling, and user-friendly interaction – perfect for desktop and mobile devices.
 
+🌟 Features
+✅ Full calculator logic with JavaScript
+🔢 Handles +, -, ×, ÷, %, 1/x, and more
+🖱️ Interactive button effects
+📱 Fully responsive layout
+🧠 Clean UI with proper structure and logic flow
 
----
+🛠️ Tech Stack
+HTML5 – semantic markup
+CSS3 – layout & design using Flexbox
+JavaScript (ES6) – logic implementation
+No frameworks used – 100% custom built
 
-## 🌟 Features
-
-- 🔘 Clean button layout
-- 📱 Responsive design
-- 🎨 Modern styling with hover effects
-- 💡 Great starting point for JS integration
-
----
-
-## 🧠 What I Learned
-
-- Flexbox for button grid layout  
-- CSS styling & theming  
-- Positioning and spacing  
-- Consistent UI structure
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3
-- Font (if used)
-- No frameworks — just raw code
-
----
+📁 File Structure
+cpp
+Copy
+Edit
+calculator/
+├── index.html        // Main HTML structure
+├── style.css         // All calculator styling
+├── script.js         // JavaScript logic & event handling
+├── screenshot.png    // UI preview image
+├── README.md 
+--------------
 
 ## 📸 Preview
-
 ![calculator preview](screenshot.png)
 
 ---
 
 ## 🚀 Live Demo
+[🔗 View it on GitHub Pages](https://codevory.github.io/calculator-ui-html-css)
 
-[🔗 View it on GitHub Pages](https://yourusername.github.io/calculator-ui-html-css)
 
-## 📁 File Structure
-├── index.html
-├── style.css
-├── preview.png
-├── README.md
+🧠 What I Learned
+DOM Manipulation for event-driven apps
+Handling user input and operations
+Clean separation of structure, style, and logic
+Debugging JS logic and UI interactions
+Writing reusable and efficient functions
 
-## 📌 Future Plan
-
-I’ll be upgrading this with **JavaScript** soon to make it fully functional.  
-Stay tuned for the logic version 👀
-
+📌 Future Plans
+Add keyboard support for input
+Add history panel or memory functions (M+, M-, MR)
+Add theme switcher (dark/light mode toggle)
+Optimize for accessibility (ARIA labels, etc.)
 ---
 
 ## 📬 Connect With Me
