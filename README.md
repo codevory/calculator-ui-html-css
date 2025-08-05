@@ -17,15 +17,25 @@ JavaScript (ES6) – logic implementation
 No frameworks used – 100% custom built
 
 📁 File Structure
+<br>
 cpp
+<br>
 Copy
+<br>
 Edit
+<br>
 calculator/
-├── index.html        // Main HTML structure
-├── style.css         // All calculator styling
-├── script.js         // JavaScript logic & event handling
-├── screenshot.png    // UI preview image
+<br>
+├── index.html
+<br>
+├── style.css
+<br>
+├── script.js
+<br>
+├── screenshot.png   
+<br>
 ├── README.md 
+<br>
 --------------
 
 ## 📸 Preview
