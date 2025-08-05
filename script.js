@@ -13,6 +13,9 @@ button.addEventListener('click', () => {
     else if(buttonText === "←"){
       display.textContent = display.textContent.slice(0,-1)
     }
+     else if(buttonText === "x"){
+      display.textContent *= display.textContent 
+     }
   else if(buttonText === "="){
     try{
       display.textContent = eval(display.textContent)
