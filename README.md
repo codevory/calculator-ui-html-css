@@ -33,7 +33,6 @@ calculator/
 ├── script.js
 <br>
 ├── screenshot.png   
-<br>
 ├── README.md 
 <br>
 --------------
