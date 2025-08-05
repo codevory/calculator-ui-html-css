@@ -7,14 +7,17 @@ button.addEventListener('click', () => {
   if(buttonText === "C") {
     display.textContent = '';
   }
-  else if(buttonText === "1/X") {
-    display.textContent = display.textContent / 100;
+  else if(buttonText === "x²") {
+    display.textContent *= display.textContent;
+  }
+  else if(buttonText === "x"){
+    display.textContent += "x" === "x" ? "*" : "x"
   }
     else if(buttonText === "←"){
       display.textContent = display.textContent.slice(0,-1)
     }
-     else if(buttonText === "x"){
-      display.textContent *= display.textContent 
+      else if(buttonText === "%"){
+      display.textContent = parseFloat(display.textContent) / 100
      }
   else if(buttonText === "="){
     try{
