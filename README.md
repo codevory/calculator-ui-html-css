@@ -54,10 +54,10 @@ Debugging JS logic and UI interactions
 Writing reusable and efficient functions
 
 📌 Future Plans
-Add keyboard support for input
-Add history panel or memory functions (M+, M-, MR)
-Add theme switcher (dark/light mode toggle)
-Optimize for accessibility (ARIA labels, etc.)
+Add keyboard support for input<br>
+Add history panel or memory functions (M+, M-, MR) <br>
+Add theme switcher (dark/light mode toggle) <br>
+Optimize for accessibility (ARIA labels, etc.) <br>
 ---
 
 ## 📬 Connect With Me
