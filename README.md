@@ -53,7 +53,7 @@ Clean separation of structure, style, and logic
 Debugging JS logic and UI interactions
 Writing reusable and efficient functions
 
-📌 Future Plans
+📌 Future Plans<hr>
 Add keyboard support for input<br>
 Add history panel or memory functions (M+, M-, MR) <br>
 Add theme switcher (dark/light mode toggle) <br>
